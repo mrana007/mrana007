@@ -1,3 +1,5 @@
+![Github banner image](https://raw.githubusercontent.com/mrana007/mrana007/main/assets/banner.gif "Github banner image")
+
 ## Hi there 👋 I am Md.Masud Rana
 ### Front-End Developer
 
