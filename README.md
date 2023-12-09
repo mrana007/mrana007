@@ -1,7 +1,10 @@
-## Hi there 👋 
-![Github banner image](https://raw.githubusercontent.com/mrana007/mrana007/main/assets/banner.gif "Github banner image")
-
-### Front-End Developer from Bangladesh
+## Hi there 👋 I'm
+![Github banner image](https://raw.githubusercontent.com/mrana007/mrana007/main/assets/git%20banner.gif "Github banner image")
+ 
+ <h3 align="center">A passionate frontend developer from Bangladesh</h3>
+ 
+ ##
+</br>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
