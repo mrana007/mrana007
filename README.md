@@ -38,10 +38,16 @@
 </p>
 
 ## Latest Projects
+#### Technology used:
+- Font-End: JavaScript, React JS, Tailwind, CSS
+- Back-End: Express, NodeJs
+- Database: MongoDB
+- Authentication: FireBase, JWT
+
 ### Project Name: Building Management </br>
 ### [Live link](https://a12-final-effort.web.app) </br>
-[Backend Github Link](https://github.com/programming-hero-web-course1/b8a12-server-side-mrana007) </br>
-[FontEnd Github Link](https://github.com/programming-hero-web-course1/b8a12-client-side-mrana007)
+[Backend Github Link](https://github.com/mrana007/Building-Mangament_Server) </br>
+[FontEnd Github Link](https://github.com/mrana007/Building_Management_Client)
 </br>
 
 Features of Project: </br>
@@ -65,6 +71,11 @@ Features of Project: </br>
 -that's all from this project 
 
 ## Project Name: Group Study
+#### Technology used:
+- Font-End: JavaScript, React JS, Tailwind, CSS
+- Back-End: Express, NodeJs
+- Database: MongoDB
+- Authentication: FireBase, JWT
 ### [Live link](https://a11-group-study.web.app) </br>
 [FontEnd Github Link](https://github.com/mrana007/Group-Study_Client) </br>
 [BackEnd Github Link](https://github.com/mrana007/Group-Study_Server)
@@ -85,19 +96,29 @@ Features of project:
 -and an user can delete the assignments which created by him
 - Also to secure the project json web-token also implement 
 
-## Project Name: Sports Event
+## Project Name: Brand Shop
 
-### [Live Link](https://sports-event-4243b.web.app)
-[Github Link](https://github.com/programming-hero-web-course-4/b8a9-event-management-mrana007)
+#### Technology used:
+- Font-End: JavaScript, React JS, Tailwind, CSS
+- Back-End: Express, NodeJs
+- Database: MongoDB
+- Authentication: FireBase
+
+### [Live Link](https://a10-brand-shop-client.web.app)
+[Font-End Github Link](https://github.com/mrana007/Brand-Shop-Client) </br>
+[BackEnd Github Link](https://github.com/mrana007/Brand-Shop-Server)
 </br>
 
 Features of Project:
 - In this project having a navbar including Home routes and two private route and a dynamic login and logout button
-- There are six sports events. Each events having title, description and entry fees.
-- User can Entry in the event by clicking entry fee button.
-- By clicked entry fee user need to register for login.
-- User need to required a name field, photo url, email and valid password to register.
-- after successfully register user can login by registered email and password.
-- if user enter wrong email or password user can not login also show a error message
-- user also can login with google(googlePopUp).
-- by enter correct email and password user can login successfully and redirect to event details and can access private route.
+- There are six authorized brand of GadgetGrove
+- Each brand having min 4 products, user also can add product by used Add Product Routes, which is private routes
+- After clicked brand its redirect to its product
+- Each products includes name, brand, price, type, rating image also having two button update and details.
+- by clicked update button user can update each products. It is a private routes
+- and by clicked details it redirect to product details page
+- after seeing product details there having a Add to cart button
+- by clicked add to cart it will stored add my cart routes
+- user also can delete product from My Cart routes
+- to enter private routes user need to register first and then login with validate password
+- user also can visit private routes by Google login
