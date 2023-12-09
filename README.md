@@ -37,4 +37,67 @@
   </a>
 </p>
 
+## Latest Projects
+### Project Name: Building Management </br>
+### [Live link](https://a12-final-effort.web.app) </br>
+[Backend Github Link](https://github.com/programming-hero-web-course1/b8a12-server-side-mrana007) </br>
+[FontEnd Github Link](https://github.com/programming-hero-web-course1/b8a12-client-side-mrana007)
+</br>
 
+Features of Project: </br>
+- This is a building management project named by Quantum Tower
+- In this project, in home page you will see the navbar, banner, discount coupon, apartment location and a footer
+- In apartment routes contain the apartment image, rent and others details
+- An user can see this section
+- to agreement user need to sign up
+- After sign up user can request for an agreement to Admin/Owner
+- It will store into Admin  Dashboard
+- To se admin  dashboard an user need to make admin
+- admin can can accept or reject the agreement proposal
+- if agreement proposal accepted the user role change to member
+- if admin reject the proposal user role remain same.
+- an admin also can remove a member role to user
+- admin can add valuable announcement which will shoe to user or member
+- admin also add coupon
+- in member dashboard he will see the agreement accepted details
+- he also can payment the agreement rent from here
+- if a member apply apply coupon he will get discount
+-that's all from this project 
+
+## Project Name: Group Study
+### [Live link](https://a11-group-study.web.app) </br>
+[FontEnd Github Link](https://github.com/mrana007/Group-Study_Client) </br>
+[BackEnd Github Link](https://github.com/mrana007/Group-Study_Server)
+</br>
+
+Features of project:
+- This is Group Study Project
+- In this projects any users an create an assignments
+- after creating assignment by any user it will store at All Assignments routes
+- In all assignments routes every assignments contain a  assignments details and update button
+-by clicking details button it need to sign in and after successfully login it will show assignments details page where have a take assignments button
+- by clicking take button it will open modal where having a submission form form with required value needed
+- after submit the form it will store into submitted assignments route by default in pending status and contain a give marks button
+- by clicking give marks button it will open a modal where examinee can give feedback and marks
+-After marking the status will changed confirmed from pending
+- In my assignments routes will show the the assignment which is created by login user
+- An login user can update the assignment
+-and an user can delete the assignments which created by him
+- Also to secure the project json web-token also implement 
+
+## Project Name: Sports Event
+
+### [Live Link](https://sports-event-4243b.web.app)
+[Github Link](https://github.com/programming-hero-web-course-4/b8a9-event-management-mrana007)
+</br>
+
+Features of Project:
+- In this project having a navbar including Home routes and two private route and a dynamic login and logout button
+- There are six sports events. Each events having title, description and entry fees.
+- User can Entry in the event by clicking entry fee button.
+- By clicked entry fee user need to register for login.
+- User need to required a name field, photo url, email and valid password to register.
+- after successfully register user can login by registered email and password.
+- if user enter wrong email or password user can not login also show a error message
+- user also can login with google(googlePopUp).
+- by enter correct email and password user can login successfully and redirect to event details and can access private route.
