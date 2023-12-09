@@ -1,19 +1,18 @@
 ## Hi there 👋 I'm
 ![Github banner image](https://raw.githubusercontent.com/mrana007/mrana007/main/assets/git%20banner.gif "Github banner image")
  
- <h3 align="center">A passionate frontend developer from Bangladesh</h3>
+ <h3 align="center">A passionate frontend web developer from Bangladesh 🇧🇩</h3>
 
- ##
+ 
+## 📱 Connect with me
+<p align="left">
+<a href="https://www.linkedin.com/in/mrana007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrana007" height="30" width="40" /></a>
+<a href="https://www.facebook.com/rana.iubat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rana.iubat" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sm_rana007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sm_rana_007" height="30" width="40" /></a>
+</p>
 </br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 ## 📈 Current Stats
 </br>
@@ -22,13 +21,9 @@
 </p>
 </br>
 
-## Connect with me
-<p align="left">
-<a href="https://www.linkedin.com/in/mrana007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrana007" height="30" width="40" /></a>
-<a href="https://www.facebook.com/rana.iubat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rana.iubat" height="30" width="40" /></a>
-<a href="https://www.instagram.com/sm_rana007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sm_rana_007" height="30" width="40" /></a>
-</p>
-</br>
+## ➤ Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrana007)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💻 Technologies Stack
 <p align="center">
@@ -37,14 +32,22 @@
   </a>
 </p>
 
+## Current Overview
+
+- 🌱  I’m currently learning about advanced React concepts and exploring best practices in front-end development.
+- 👯 I’m looking to collaborate on open-source projects or any initiatives that involve creating engaging and responsive web applications.
+- 🤔 I’m looking for help with staying updated on the latest trends and best practices in front-end development, especially in the React ecosystem.
+- 💬 Ask me about React components, state vs. props, or anything related to front-end web development.
+📫 How to reach me: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mrana007)
+
 ## Latest Projects
+### Project Name: Building Management </br>
 #### Technology used:
-- Font-End: JavaScript, React JS, Tailwind, CSS
+- Front-End: JavaScript, React JS, Tailwind, CSS
 - Back-End: Express, NodeJs
 - Database: MongoDB
 - Authentication: FireBase, JWT
 
-### Project Name: Building Management </br>
 ### [Live link](https://a12-final-effort.web.app) </br>
 [Backend Github Link](https://github.com/mrana007/Building-Mangament_Server) </br>
 [FontEnd Github Link](https://github.com/mrana007/Building_Management_Client)
@@ -72,7 +75,7 @@ Features of Project: </br>
 
 ## Project Name: Group Study
 #### Technology used:
-- Font-End: JavaScript, React JS, Tailwind, CSS
+- Front-End: JavaScript, React JS, Tailwind, CSS
 - Back-End: Express, NodeJs
 - Database: MongoDB
 - Authentication: FireBase, JWT
@@ -105,7 +108,7 @@ Features of project:
 - Authentication: FireBase
 
 ### [Live Link](https://a10-brand-shop-client.web.app)
-[Font-End Github Link](https://github.com/mrana007/Brand-Shop-Client) </br>
+[Front-End Github Link](https://github.com/mrana007/Brand-Shop-Client) </br>
 [BackEnd Github Link](https://github.com/mrana007/Brand-Shop-Server)
 </br>
 
