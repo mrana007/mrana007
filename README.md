@@ -21,9 +21,13 @@
 </p>
 </br>
 
-## ➤ Languages
+## 🌐 Languages
+
+<div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrana007)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
 
 ## 💻 Technologies Stack
 <p align="center">
