@@ -47,14 +47,14 @@
 ## Latest Projects
 ### Project Name: Building Management </br>
 #### Technology used:
-- Front-End: JavaScript, React JS, Tailwind, CSS
-- Back-End: Express, NodeJs
+- Frontend: JavaScript, React JS, Tailwind, CSS
+- Backend: Express, NodeJs
 - Database: MongoDB
 - Authentication: FireBase, JWT
 
 ### [Live link](https://a12-final-effort.web.app) </br>
 [Backend Github Link](https://github.com/mrana007/Building-Mangament_Server) </br>
-[FontEnd Github Link](https://github.com/mrana007/Building_Management_Client)
+[FrontEnd Github Link](https://github.com/mrana007/Building_Management_Client)
 </br>
 
 Features of Project: </br>
@@ -79,13 +79,13 @@ Features of Project: </br>
 
 ## Project Name: Group Study
 #### Technology used:
-- Front-End: JavaScript, React JS, Tailwind, CSS
-- Back-End: Express, NodeJs
+- Frontend: JavaScript, React JS, Tailwind, CSS
+- Backend: Express, NodeJs
 - Database: MongoDB
 - Authentication: FireBase, JWT
 ### [Live link](https://a11-group-study.web.app) </br>
-[FontEnd Github Link](https://github.com/mrana007/Group-Study_Client) </br>
-[BackEnd Github Link](https://github.com/mrana007/Group-Study_Server)
+[Frontend Github Link](https://github.com/mrana007/Group-Study_Client) </br>
+[Backend Github Link](https://github.com/mrana007/Group-Study_Server)
 </br>
 
 Features of project:
@@ -106,14 +106,14 @@ Features of project:
 ## Project Name: Brand Shop
 
 #### Technology used:
-- Font-End: JavaScript, React JS, Tailwind, CSS
-- Back-End: Express, NodeJs
+- Frontend: JavaScript, React JS, Tailwind, CSS
+- Backend: Express, NodeJs
 - Database: MongoDB
 - Authentication: FireBase
 
 ### [Live Link](https://a10-brand-shop-client.web.app)
-[Front-End Github Link](https://github.com/mrana007/Brand-Shop-Client) </br>
-[BackEnd Github Link](https://github.com/mrana007/Brand-Shop-Server)
+[Frontend Github Link](https://github.com/mrana007/Brand-Shop-Client) </br>
+[Backend Github Link](https://github.com/mrana007/Brand-Shop-Server)
 </br>
 
 Features of Project:
